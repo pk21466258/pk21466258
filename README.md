@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pk21466258
-- 👀 I’m interested in De Anza
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in 
+- 🌱 I’m currently learning FullStack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
